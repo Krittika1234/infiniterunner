@@ -1,1 +1,1 @@
-# infiniterunner
+# infiniteRunner
